@@ -1,3 +1,9 @@
+
+
+
+https://github.com/user-attachments/assets/184c3ecf-a025-4e1a-851a-891ca02637f9
+
+
 ## Overview
 
 ChristheDM's Shortcut Panel is a sleek overlay panel for Foundry VTT that gives the GM a fast way to organize and open important game content. Instead of relying on a separate manager window, the panel itself is the workspace: drag documents directly into it, sort them into visual categories, add dividers, and open what you need without digging through sidebars.
@@ -151,8 +157,7 @@ Available actions include:
 6. Right-click categories or entries to manage them.
 7. Drag actors or items from the panel onto the scene when needed.
 
-## Notes
-- The old Shortcuts Manager has been retired from the normal workflow.
-- The panel itself is now the primary management interface.
-- This module is intended for **Foundry VTT v13**.
+## Warning
+By using this module, you accept that you are okay with AI being used to assist in the creation of the module.
+Absolutely NO AI Art used, or tolerated in this module.
 
