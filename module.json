@@ -1,0 +1,22 @@
+{
+  "id": "journal-shortcuts-panel",
+  "title": "ChristheDM's Shortcut Panel",
+  "description": "A sleek overlay shortcut panel for Foundry VTT where GMs can drag and drop Actors, Journals, Items, Rolltables, and Macros directly into the panel, with categories and dividers.",
+  "version": "1.6.12",
+  "authors": [
+    {
+      "name": "ChrisTheDM"
+    }
+  ],
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/journal-shortcuts.css"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
